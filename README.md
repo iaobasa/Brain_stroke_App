@@ -67,7 +67,7 @@ streamlit run stroke_detection_app.py
 stroke-detection-app/
 │
 ├── stroke_detection_app.py        # Streamlit application code
-├── Deep Learning_sigmoid_model    # Trained ResNet model 
+├── Deep Learning_sigmoid_model    # Trained Deep Learning model 
 ├── requirements.txt               # List of dependencies
 ├── README.md                      # Project README file
 └── sample_images/                 # Sample CT scan images for testing 
@@ -143,7 +143,7 @@ NITDA is committed to empowering the future through innovation and digital trans
 
 ### **Grant Details**
 - **Recipient**: Dr. Obasa, Adekunle Isiaka (Nigerian Researcher)  
-- **Research Focus**: Application of hybrid machine learning techniques to improve the diagnosis of ischemic strokes in CT scan images.  
+- **Research Focus**: Application of hybrid machine learning techniques to improve the diagnosis of brain strokes in CT scan images.  
 
 We extend our gratitude to **NITDA** and **NAIRS** for supporting this initiative and contributing to advancements in healthcare technology.
 
