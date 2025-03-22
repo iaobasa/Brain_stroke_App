@@ -12,7 +12,7 @@ This app uses **deep learning** to analyze Brain CT scan images and detect poten
 
 ## 🖼️ Sample Images for Testing  
 
-To test the app, here are some 📂 [**Sample Test Images**](./Sample_test_images) available in the repository.  
+To test the app, here are some 📂 [**Sample Test Images**](https://github.com/iaobasa/Brain_stroke_App/tree/main/Sample_Test_Images) available in the repository.  
 
 Download and upload these images to the app for quick testing and evaluation!
 
