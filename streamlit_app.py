@@ -64,7 +64,7 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("### 🙌 Acknowledgment")
     st.markdown(""" 
-    This project is supported by **NITDA** through the **Nigeria AI Research Scheme (NAIRS)** under the **Federal Ministry of Communications, Innovation, and Digital Economy.
+    This project is supported by **NITDA** through the **Nigeria AI Research Scheme (NAIRS)** under the **Federal Ministry of Communications, Innovation, and Digital Economy.**
     """)
 
 # Title 
