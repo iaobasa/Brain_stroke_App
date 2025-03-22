@@ -2,7 +2,7 @@
 
 This is a **Streamlit application** that uses a **Deep Learning Convolutional Neural Network (CNN)** to classify CT scan images into two categories: **Normal** or **Stroke**. The app is designed to assist in the preliminary detection of strokes using medical CT scan images.
 
-## 🔥 Try the App  
+## 🔥 Try the Application 
 
 You can access the **AI-Powered Stroke Detection App** by clicking the link below:  
 
