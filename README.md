@@ -6,7 +6,7 @@ This is a **Streamlit application** that uses a **ResNet-based Convolutional Neu
 
 You can access the **AI-Powered Stroke Detection App** by clicking the link below:  
 
-🔗 [**Brain Stroke Detection App**](https://brain-stroke-appliction.streamlit.app/)  
+🔗 [**Brain Stroke Detection App**](https://brain-stroke-app.streamlit.app/)  
 
 This app uses **deep learning** to analyze Brain CT scan images and detect potential stroke indicators with high accuracy. Upload an image and get an instant prediction!  
 
