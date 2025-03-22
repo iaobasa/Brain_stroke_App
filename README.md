@@ -85,7 +85,6 @@ stroke-detection-app/
    The app displays:
    - The predicted class (e.g., **Stroke** or **Normal**).
    - The model’s confidence score.
-   - A bar chart showing confidence percentages for all classes.
 
 
 ## 🔧 Requirements
@@ -150,9 +149,6 @@ We extend our gratitude to **NITDA** and **NAIRS** for supporting this initiativ
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue to suggest improvements.
-
-## 📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 
 
