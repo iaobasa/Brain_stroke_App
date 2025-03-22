@@ -53,10 +53,10 @@ def predict_image(image_path, model):
 with st.sidebar:
     st.title("🧠 Stroke Detection App")
     st.markdown("""
-    This application uses an advanced **ResNet-based CNN model** to analyze Brain CT scan images and detect possible signs of **Stroke**.
+    This application uses an advanced **Deep Learning CNN model** to analyze Brain CT scan images and detect possible signs of **Stroke**.
     
     ### 🔍 Features:
-    - **Deep Learning Model:** ResNet-based CNN
+    - **Deep Learning Model:** Convolutional Neural Network Model
     - **Dataset:** Custom CT Scan Dataset
     - **Accuracy:** High-performance stroke detection with **94% Accuracy**
     - **Fast & Secure:** AI-powered real-time diagnosis
