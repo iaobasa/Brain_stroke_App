@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ```
 
 ### 3. Add the Model
-Save your trained ResNet-based model (e.g., resnet_model.h5) in the root directory or provide its path in the code.
+Save your trained based model (e.g., efficientnet_model.h5) in the root directory or provide its path in the code.
 
 ### 4. Run the Application
 Start the Streamlit app:
