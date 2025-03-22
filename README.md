@@ -2,7 +2,7 @@
 
 This is a **Streamlit application** that uses a **Deep Learning Convolutional Neural Network (CNN)** to classify CT scan images into two categories: **Normal** or **Stroke**. The app is designed to assist in the preliminary detection of strokes using medical CT scan images.
 
-## 🔥 Try the Application 
+## 🔥 Try the App 
 
 You can access the **AI-Powered Stroke Detection App** by clicking the link below:  
 
@@ -25,7 +25,7 @@ Download and upload these images to the app for quick testing and evaluation!
   Detects whether a CT scan image indicates a **normal brain** or signs of a **stroke**.
   
 - **High Accuracy**:  
-  The ResNet model achieved an impressive **94% accuracy** on the test dataset, demonstrating its reliability for stroke detection.
+  The Deep Learning model achieved an impressive **94% accuracy** on the test dataset, demonstrating its reliability for stroke detection.
 
 - **Interactive Interface**:  
   Built with Streamlit, the app provides a user-friendly interface for image upload and classification.
@@ -66,11 +66,11 @@ streamlit run stroke_detection_app.py
 ```graphql
 stroke-detection-app/
 │
-├── stroke_detection_app.py    # Streamlit application code
-├── resnet_sigmoid_model       # Trained ResNet model 
-├── requirements.txt           # List of dependencies
-├── README.md                  # Project README file
-└── sample_images/             # Sample CT scan images for testing 
+├── stroke_detection_app.py        # Streamlit application code
+├── Deep Learning_sigmoid_model    # Trained ResNet model 
+├── requirements.txt               # List of dependencies
+├── README.md                      # Project README file
+└── sample_images/                 # Sample CT scan images for testing 
 ```
 
 ## ⚙️ How to Use
@@ -120,8 +120,8 @@ This application uses the **[Brain Stroke CT Image Dataset](https://www.kaggle.c
 - **File Formats**: `.png`
 
 ### **Preprocessing Steps**
-1. **Resizing**: All images are resized to `(224, 224)` pixels to match the ResNet model's input size.
-2. **Channel Conversion**: Images are converted to RGB to ensure compatibility with the pre-trained ResNet architecture.
+1. **Resizing**: All images are resized to `(224, 224)` pixels to match the Deep Learning model's input size.
+2. **Channel Conversion**: Images are converted to RGB to ensure compatibility with the pre-trained Deep Learning architecture.
 3. **Normalization**: Pixel values are normalized to the range `[0, 1]` to improve model training performance.
 
 ### **Dataset Usage**
@@ -136,7 +136,7 @@ This application uses the **[Brain Stroke CT Image Dataset](https://www.kaggle.c
 
 ## 🙌 Acknowledgements
 
-This project was proudly sponsored by **NITDA (National Information Technology Development Agency)** through the **Nigeria Artificial Intelligence Research Scheme (NAIRS)**.
+This project was proudly sponsored by **The Ministry of Communications, Innovation and Digital Economy** through the **NITDA (National Information Technology Development Agency)** through the **Nigeria Artificial Intelligence Research Scheme (NAIRS)**.
 
 ### **About NITDA**
 NITDA is committed to empowering the future through innovation and digital transformation, supporting groundbreaking research in artificial intelligence and related fields.
