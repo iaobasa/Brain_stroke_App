@@ -1,6 +1,6 @@
 # 🧠 AI Powered Stroke Detection App
 
-This is a **Streamlit application** that uses a **ResNet-based Convolutional Neural Network (CNN)** to classify CT scan images into two categories: **Normal** or **Stroke**. The app is designed to assist in the preliminary detection of strokes using medical CT scan images.
+This is a **Streamlit application** that uses a **Deep Learning Convolutional Neural Network (CNN)** to classify CT scan images into two categories: **Normal** or **Stroke**. The app is designed to assist in the preliminary detection of strokes using medical CT scan images.
 
 ## 🔥 Try the App  
 
@@ -18,8 +18,8 @@ Download and upload these images to the app for quick testing and evaluation!
 
 ## 🚀 Features
 
-- **ResNet-based Model**:  
-  The application uses a ResNet model fine-tuned on a CT scan dataset.
+- **Deep Learning Model**:  
+  The application uses a Deep Learning CNN model fine-tuned on a CT scan dataset.
 
 - **Image Classification**:  
   Detects whether a CT scan image indicates a **normal brain** or signs of a **stroke**.
