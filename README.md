@@ -16,7 +16,7 @@ To test the app, here are some 📂 [**Sample Test Images**](https://github.com/
 
 Download and upload these images to the app for quick testing and evaluation!
 
-## 🚀 Features
+##  Features
 
 - **Deep Learning Model**:  
   The application uses a Deep Learning CNN model fine-tuned on a CT scan dataset.
@@ -87,7 +87,7 @@ stroke-detection-app/
    - The model’s confidence score.
 
 
-## 🔧 Requirements
+##  Requirements
 
 - **Python 3.8+**
 
